@@ -14,12 +14,12 @@ Ambitious, hardworking, and highly dedicated Front End Developer with a strong p
 ## Education
 - **MS Low Carbon Technologies and Sustainable Chemistry**
   - University of Bologna, Italy
-  - **Date:** [10/2020] - [05/2022]
-  - **Grade Average:** [96.98/110]
+  - **Date:** 10/2020 - 05/2022
+  - **Grade Average:** 96.98/110
 - **BS in Environmental Sciences**
   - COMSATS University Islamabad, Pakistan
-  - **Date:** [02/2015] - [02/2019]
-  - **Grade Average:** [3.89/4.00]
+  - **Date:** 02/2015 - 02/2019
+  - **Grade Average:** 3.89/4.00
   - **Silver Medalist**
 
 ## Skills
@@ -34,19 +34,19 @@ Ambitious, hardworking, and highly dedicated Front End Developer with a strong p
 
 ## Experience
 - **Walmart Customer Support Representative**
- - **Company:** [IBEX.co]
- - **Dates:** [12/2022] - [05/2023]
- - **Location:** [Lahore,Pakistan]
- - **Description:** [Provided excellent customer support for Walmart customers, resolving inquiries and concerns in a timely and professional manner. Demonstrated strong communication skills and the ability to work in a fast-paced environment.]
+ - **Company:** IBEX.co
+ - **Dates:** 12/2022 - 05/2023
+ - **Location:** Lahore, Pakistan
+ - **Description:** Provided excellent customer support for Walmart customers, resolving inquiries and concerns in a timely and professional manner. Demonstrated strong communication skills and the ability to work in a fast-paced environment.
 
 ## Personal Projects
 - I have done a few projects as practice to test my skills in programming. I have created a rock,paper,scissors game; tic-tac-toe game; whack a mole game; analog clock; and few minor things using HTML, CSS and JS. I have learnt all the programming from trusted sources such as w3school, freecodecamp, Github and MDN.
 
 ## Languages
-- **English:** [Native or Bilingual Proficiency]
-- **Italian:** [Professional Working Proficiency]
-- **Urdu:** [Native or Bilingual Proficiency]
-- **Norwegian:** [Elementary Proficiency]
+- **English:** Native or Bilingual Proficiency
+- **Italian:** Professional Working Proficiency
+- **Urdu:** Native or Bilingual Proficiency
+- **Norwegian:** Elementary Proficiency
 
 ## Interests
 - Coding
